@@ -1,5 +1,8 @@
 ## Exemplo: Resultado da Geração de Código
 
+Gerado por IA
+
+
 Este arquivo mostra o resultado obtido a partir do prompt de geração de código Python.
 
 ### Prompt Utilizado
