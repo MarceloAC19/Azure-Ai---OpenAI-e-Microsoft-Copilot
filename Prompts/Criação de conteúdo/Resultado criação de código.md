@@ -1,6 +1,7 @@
-## Exemplo: Resultado da Geração de Código
 
 Gerado por IA
+## Exemplo: Resultado da Geração de Código
+
 
 
 Este arquivo mostra o resultado obtido a partir do prompt de geração de código Python.
