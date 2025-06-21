@@ -1,3 +1,5 @@
+Gerado por IA
+
 ## Exemplo: Resultado da Geração de Roteiro
 
 Este arquivo mostra o resultado obtido a partir do prompt de geração de roteiro.
