@@ -1,3 +1,5 @@
+Gerado por IA
+
 ## Prompt: Geração de Roteiro
 
 **Instrução de Sistema (System Message):**
