@@ -1,3 +1,5 @@
+Gerado por IA
+
 ## Prompt: Geração de Função Python
 
 **Instrução de Sistema (System Message):**
